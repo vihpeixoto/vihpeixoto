@@ -1,4 +1,10 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 🖤
+Sou estudante da tecnologia da escola João Marciano
+
+-aprendendo o conteúdo da Plataforma Alura
+
+
+![](https://media1.tenor.com/m/EEsGwHVPdFgAAAAC/dog-smirk-dog.gif)
 
 <!--
 **vihpeixoto/vihpeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
